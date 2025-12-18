@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-chapter2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node server.js"
+  },
+  "author": "Morteza pourrajab",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

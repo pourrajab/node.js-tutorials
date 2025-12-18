@@ -1,0 +1,17 @@
+{
+  "name": "04-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node insertMany.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mongodb": "^7.0.0",
+    "nodemon": "^3.1.11"
+  }
+}

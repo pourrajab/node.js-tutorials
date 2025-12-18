@@ -1,0 +1,16 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "singleton.js",
+  "scripts": {
+    "srart": "nodemon node singleton.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.15.0",
+    "nodemon": "^3.1.9"
+  }
+}
